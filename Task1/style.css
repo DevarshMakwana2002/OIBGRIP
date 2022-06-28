@@ -1,0 +1,33 @@
+#button{
+    border-color: #3a4bcd;
+    border-style: solid;
+    border-width:1px;
+    font-weight: bold;
+    border-radius: 20%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 58, 203);
+    box-shadow: 2px 4px #7e8dff;
+    
+    /* border-width:2px; */
+}
+
+#button:hover{
+    box-shadow: 3px 4px 3px;
+}
+
+
+#display{
+    border-color: #7989ff;
+    border-style: solid;
+    font-weight: bold;
+    color:rgb(0, 72, 255);
+    border-radius: 20%;
+    box-shadow:2px 4px #808fff;
+}
+
+#cal{
+    border:2px solid #7c8bff ; 
+    width:300px ; 
+    border-radius:20%;
+}
+
